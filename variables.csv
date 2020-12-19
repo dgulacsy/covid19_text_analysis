@@ -1,0 +1,15 @@
+﻿No,Columns,Descriptions,Example
+1,user_name,"The name of the user, as they’ve defined it.",MyNewsNE
+2,user_location,The user-defined location for this account’s profile.,Assam
+3,user_description,The user-defined UTF-8 string describing their account.,MyNewsNE a dedicated multi-lingual media house from North Eastern India.
+4,user_created,"Time and date, when the account was created.",43975.42917
+5,user_followers,The number of followers a account currently has.,64
+6,user_friends,The number of friends a account currently has.,11
+7,user_favourites,The number of favorites a account currently has,110
+8,user_verified,"When true, indicates that the user has a verified account",FALSE
+9,date,UTC time and date when the Tweet was created,44061.53819
+10,text,The actual UTF-8 text of the Tweet,"Australia to Manufacture Covid-19 Vaccine and give it to the Citizens for free of cost: AFP quotes Prime Minister
+#CovidVaccine"
+11,hashtags,All the other hashtags posted in the tweet along with #CovidVaccine,['CovidVaccine']
+12,source,"Utility used to post the Tweet, Tweets from the Twitter website have a source value - web",Twitter Web App
+13,is_retweet,Indicates whether this Tweet has been Retweeted by the authenticating user.,FALSE
